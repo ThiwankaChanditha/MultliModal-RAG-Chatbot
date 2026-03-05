@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+qdrant-client
+sentence-transformers
+redis
+tavily-python
+transformers
+torch
+pillow
+sse-starlette
+python-dotenv
