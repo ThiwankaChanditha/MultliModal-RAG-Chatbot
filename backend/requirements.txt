@@ -11,3 +11,9 @@ torch
 pillow
 sse-starlette
 python-dotenv
+pdfplumber
+langchain-openai
+langchain-huggingface
+pymupdf
+firebase-admin
+langchain-qdrant
