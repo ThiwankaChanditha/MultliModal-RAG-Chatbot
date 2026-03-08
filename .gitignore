@@ -208,3 +208,4 @@ __marimo__/
 
 ./backend/.env
 ./backend/.venv
+backend/firebase-service-account.json
