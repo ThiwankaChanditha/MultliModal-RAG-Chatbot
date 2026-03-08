@@ -95,18 +95,5 @@ npm run dev
 
 ---
 
-## 🚢 Deployment
-
-Detailed deployment walkthroughs have been generated for both AWS and Render.
-
-### Option 1: Render (Easiest & Free Tier)
-Deploy the Next.js frontend as a `Node` Web Service and the backend as a `Docker` Web Service. Native Next.js rendering and Dockerfiles are fully supported.
-* *See `aws-deployment.md` or the generated walkthroughs for the detailed guide.*
-
-### Option 2: AWS App Runner & Amplify
-Use AWS App Runner (for the Dockerized Python API) or EC2 combined with AWS Amplify for the Next.js frontend for robust, scalable cloud infrastructure.
-
----
-
 ## 📄 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
