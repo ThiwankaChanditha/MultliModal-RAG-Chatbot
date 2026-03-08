@@ -10,6 +10,10 @@ os.makedirs("temp_uploads", exist_ok=True)
 
 app = FastAPI()
 
+@app.get("/")
+def health():
+    return {"status": "ok"}
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
